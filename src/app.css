@@ -1,0 +1,28 @@
+nav {
+  width: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 55px;
+  border-bottom: 1px solid;
+  justify-content: center;
+  a {
+    margin: auto;
+  } 
+}
+
+input {
+  border: 1px solid;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  width: 100%;
+  border: 1px solid;
+}
+
+.blur {
+  backdrop-filter: blur(10px);
+}
