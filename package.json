@@ -10,7 +10,7 @@
         "lint": "eslint src --ext .ts,.tsx",
         "format": "prettier --write .",
         "prepare": "husky",
-        "test": "jest"
+        "test": "vitest"
     },
     "dependencies": {
         "@react-hook/media-query": "^1.1.1",
